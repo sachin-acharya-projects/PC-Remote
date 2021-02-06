@@ -4,7 +4,7 @@ anywhere with internet connection.
 It is like, using Command Prompt, which have only feature and command line created by me.
 ## INSTALLATION
 __For Server Side__:
-_Server Side: Your computer to be controlled Install all the requirements using PIP. _
+_Server Side: Your computer to be controlled Install all the requirements using PIP._
 ````
 pip install -r requirements.txt
 ````
